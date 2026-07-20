@@ -13,7 +13,7 @@
     "require": {
         "php": ">=7.1|>=8.0",
         "yiisoft/yii2": ">=2.0.13",
-        "spomky-labs/otphp": "11.6.x-dev"
+        "spomky-labs/otphp": "v11.0.2"
     },
     "autoload": {
         "psr-4": {
